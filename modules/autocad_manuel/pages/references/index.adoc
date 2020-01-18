@@ -1,8 +1,7 @@
-= Références {acad}
+= Références AutoCAD
 include::_attributes.adoc[]
-// Settings
 Olivier TURLIER <o.turlier@gmail.com>
-v.1.01, 18 janvier 2020, édition initale
+v.1.01, 18 janvier 2020, édition initiale
 
 
 

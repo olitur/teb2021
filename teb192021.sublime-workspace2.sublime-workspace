@@ -8,61 +8,20 @@
 	"buffers":
 	[
 		{
-			"file": "antora-playbook.yml",
+			"file": "TEB192021-playbook.yml",
 			"settings":
 			{
-				"buffer_size": 1122,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/ROOT/nav.adoc",
-			"settings":
-			{
-				"buffer_size": 130,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/ROOT/_attributes.adoc",
-			"settings":
-			{
-				"buffer_size": 931,
+				"buffer_size": 1320,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "modules/ROOT/pages/_attributes.adoc",
+			"file": "antora.yml",
 			"settings":
 			{
-				"buffer_size": 55,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/ROOT/pages/index.adoc",
-			"settings":
-			{
-				"buffer_size": 1071,
-				"encoding": "Western (Windows 1252)",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/ROOT/pages/comment_contribuer.adoc",
-			"settings":
-			{
-				"buffer_size": 3015,
+				"buffer_size": 141,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/ROOT/pages/version_notes.adoc",
-			"settings":
-			{
-				"buffer_size": 239,
 				"line_ending": "Windows"
 			}
 		},
@@ -70,48 +29,19 @@
 			"file": "modules/autocad_manuel/nav.adoc",
 			"settings":
 			{
-				"buffer_size": 2047,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/autocad_manuel/_attributes.adoc",
-			"settings":
-			{
-				"buffer_size": 879,
+				"buffer_size": 819,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "modules/autocad_manuel/pages/index.adoc",
+			"contents": "build/\n",
+			"file": ".gitignore",
+			"file_size": 0,
+			"file_write_time": 132238625308459172,
 			"settings":
 			{
-				"buffer_size": 34,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/autocad_manuel/pages/_attributes.adoc",
-			"settings":
-			{
-				"buffer_size": 55,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/autocad_manuel/pages/000_intro/_attributes.adoc",
-			"settings":
-			{
-				"buffer_size": 58,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "modules/autocad_manuel/pages/000_intro/index.adoc",
-			"settings":
-			{
-				"buffer_size": 39,
+				"buffer_size": 7,
 				"line_ending": "Windows"
 			}
 		}
@@ -175,13 +105,50 @@
 		"/E/virtualboxdossierspartage/ANTORA/TEB192021",
 		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules",
 		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel",
-		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages",
-		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/000_intro",
-		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT",
-		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/pages"
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT"
 	],
 	"file_history":
 	[
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/tutoriels/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/references/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/notions/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/guides/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/references/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/tutoriels/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/guides/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/notions/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/tutoriels/tut-acad-001.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/antora-playbook.yml",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/pages/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/antora.yml",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/supplemental-ui/partials/header-content.hbs",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/supplemental-ui/partials/footer-content.hbs",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/nav.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/tutoriels/tut-acad-002.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/couchbase_docs-site/home/modules/contribute/pages/tabs.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/tutoriels/tut-acad-003.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/articles_asciidoc/documentation_structure/documentation_good-document-types-docs.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/guides/gui-acad-001.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/guides/gui-acad-002.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/guides/gui-acad-003.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/notions/not-acad-001.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/notions/not-acad-003.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/notions/not-acad-002.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/references/ref-acad-001.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/references/ref-acad-002.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/references/ref-acad-003.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/000_intro/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/000_intro/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/owncloud-docs/modules/user_manual/nav.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/owncloud-docs/modules/user_manual/pages/index.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/pages/version_notes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/nav.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/pages/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/pages/comment_contribuer.adoc",
 		"/E/virtualboxdossierspartage/ANTORA/TEB192021/teb192021.sublime-project",
 		"/E/virtualboxdossierspartage/ASCIIDOC/cours-TEB/chapters/chapter_01.adoc",
 		"/E/virtualboxdossierspartage/ASCIIDOC/eBook-Template/master.adoc",
@@ -272,24 +239,24 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "antora-playbook.yml",
+					"file": "TEB192021-playbook.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1122,
+						"buffer_size": 1320,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								159,
+								159
 							]
 						],
 						"settings":
@@ -302,240 +269,44 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "modules/ROOT/nav.adoc",
+					"file": "antora.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 130,
+						"buffer_size": 141,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								141,
+								141
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "modules/ROOT/_attributes.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 931,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "modules/ROOT/pages/_attributes.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 55,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "modules/ROOT/pages/index.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1071,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "modules/ROOT/pages/comment_contribuer.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3015,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "modules/ROOT/pages/version_notes.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 239,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								239,
-								239
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "modules/autocad_manuel/nav.adoc",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2047,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "modules/autocad_manuel/_attributes.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 879,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "modules/autocad_manuel/pages/index.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34,
+						"buffer_size": 819,
 						"regions":
 						{
 						},
@@ -558,87 +329,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "modules/autocad_manuel/pages/_attributes.adoc",
+					"buffer": 3,
+					"file": ".gitignore",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 55,
+						"buffer_size": 7,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								7,
+								7
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "modules/autocad_manuel/pages/000_intro/_attributes.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 58,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "modules/autocad_manuel/pages/000_intro/index.adoc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 39,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -650,7 +365,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 41.0
 	},
 	"layout":
 	{

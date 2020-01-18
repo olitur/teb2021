@@ -1,8 +1,7 @@
-= Tutoriels {acad}
+= Tutoriels AutoCAD
 include::_attributes.adoc[]
-// Settings
 Olivier TURLIER <o.turlier@gmail.com>
-v.1.01, 13 janvier 2020, édition initale
+v.1.01, 13 janvier 2020, édition initiale
 
 
 == tabs

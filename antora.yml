@@ -1,0 +1,7 @@
+name: resTEB
+title: Ressources TEB
+version: '1.01'
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/autocad_manual/nav.adoc

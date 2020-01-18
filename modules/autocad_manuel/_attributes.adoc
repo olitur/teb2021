@@ -1,48 +1,5 @@
 :attachmentsdir: {moduledir}/assets/attachments
-:examplesdir: {moduledir}/examples
+:examplesdir: {moduledir}/assets/exemples
 :imagesdir: {moduledir}/assets/images
+:videosdir: {moduledir}/assets/videos
 :partialsdir: {moduledir}/pages/_partials
-//
-:keywords: TEB, ressources, documentation, AutoCAD
-//
-:idprefix:
-:idseparator: -
-// article, book, inline or manpage
-//:doctype: article
-:encoding: utf-8
-:source-language: asciidoc
-//:outfilesuffix: .txt
-:lang: fr
-ifndef::env-github[:icons: font]
-:filesdir: {docdir}/assets/attachements
-ifndef::imagesdir[:imagesdir: {filesdir}/images]
-:favicon: ./images/favicon.ico
-// enable menu & keyboard
-:experimental:
-// toc
-:toc: left
-:toclevels: 2
-:toc-title: Sommaire
-// embed image in html
-:data-uri: yes
-//:allow-uri-read:
-:numbered:
-:sectnums:
-// equations-> matjax
-:stem:
-:eqnums: yes
-// disable footer stamp
-:nofooter:
-:reproducible:
-// permit open link in another tab, like http://batchrocket.eu/fr/application[atelier,window="_blank"]
-:linkattrs:
-//
-:description: acad for ever !
-// add tabs view following couchbas docs tabs : https://docs.couchbase.com/home/contribute/tabs.html and https://docs.couchbase.com/sync-gateway/2.6/getting-started.html#installation
-:tabs:
-// URL's
-:url-pandoc: https://pandoc.org
-:url-mcneel-docalgogh: https://www.rhino3d.com/download/rhino/6.0/essential-algorithms
-:url-antora: https://antora.org/
-//
-:acad: AutoCAD

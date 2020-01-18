@@ -1,5 +1,7 @@
-= Notions {acad}
+= Notions AutoCAD
 include::_attributes.adoc[]
+Olivier TURLIER <o.turlier@gmail.com>
+v.1.01, 20 janvier 2020, édition initiale
 
 
 

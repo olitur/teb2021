@@ -1,5 +1,5 @@
 = Ressources TEB 19-20-21
-include::_attributes.adoc[]
+//include::_attributes.adoc[]
 
 == Contenu du site
 
@@ -11,7 +11,7 @@ Si vous trouvez une coquille, si vous avez des suggestions d'amélioration ou si 
 
 == Téléchargement d'une version imprimable
 
-Vous pouvez télécharger diverses compilations suivantes, sous forme de livre : 
+Vous pouvez télécharger diverses compilations suivantes, sous forme de livre :
 
 * _Réglementation TEB_
 * _AutoCAD : guide pratique TEB_ : icon:download[link="https://rubygems.org/downloads/asciidoctor-1.5.2.gem"]

@@ -1,4 +1,4 @@
 :moduledir: ..
-include::{moduledir}/_attributes.adoc[]
-// susbstitutions
+//include::{moduledir}/_attributes.adoc[]
+//
 :acad: AutoCAD
