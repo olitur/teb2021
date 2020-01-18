@@ -1,0 +1,4 @@
+= Introduction
+include::_attributes.adoc[]
+
+*Bienvenue au Manuel {acad}*

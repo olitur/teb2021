@@ -1,0 +1,3 @@
+* xref:index.adoc[Ressources TEB]
+** xref:version_notes.adoc[Notes de version]
+** xref:comment_contribuer.adoc[Comment contribuer]

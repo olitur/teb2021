@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "antora-playbook.yml",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/ROOT/nav.adoc",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/ROOT/_attributes.adoc",
+			"settings":
+			{
+				"buffer_size": 931,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/ROOT/pages/_attributes.adoc",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/ROOT/pages/index.adoc",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/ROOT/pages/comment_contribuer.adoc",
+			"settings":
+			{
+				"buffer_size": 3015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/ROOT/pages/version_notes.adoc",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/autocad_manuel/nav.adoc",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/autocad_manuel/_attributes.adoc",
+			"settings":
+			{
+				"buffer_size": 879,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/autocad_manuel/pages/index.adoc",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/autocad_manuel/pages/_attributes.adoc",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/autocad_manuel/pages/000_intro/_attributes.adoc",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/autocad_manuel/pages/000_intro/index.adoc",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"com",
+				"Snippet: Comment Block"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Toggle Comment"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/autocad_manuel/pages/000_intro",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT",
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/modules/ROOT/pages"
+	],
+	"file_history":
+	[
+		"/E/virtualboxdossierspartage/ANTORA/TEB192021/teb192021.sublime-project",
+		"/E/virtualboxdossierspartage/ASCIIDOC/cours-TEB/chapters/chapter_01.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/eBook-Template/master.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/Adesk_Fondamentaux-acad_fr_pandoc-html-to-adoc/0000_infos-alire.txt",
+		"/C/Users/olivier/Documents/perso/wo/me.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/articles_asciidoc/TEB_workflow-editorial.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/articles_asciidoc/0000_infos-alire.txt",
+		"/E/virtualboxdossierspartage/ASCIIDOC/EssentialAlgorithmsAndDataStructures_FirstEdition/000_alire_conversion-pdf2adoc_exemple.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoctor-skins/index.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/test01/new-doc.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/suse-pdfclone2/uyuni-clone.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/adoc-presentation-model/src/docs/asciidoc/asciidoc-syntax-quick-reference.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/adoc-presentation-model/src/docs/asciidoc/BP-asciidoc.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/articles_asciidoc/presentation.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/articles_asciidoc/ascii-questions.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/test02_html+pdf/asciidoc-all-in-a-one.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/book/book.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/EssentialAlgorithmsAndDataStructures_FirstEdition/EssentialAlgorithmsAndDataStrucutres_1stEdition_light_chap1.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc-infoQ/index.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/test02_html+pdf/fichiers/themes/pdf/uyuni-theme.yml",
+		"/E/virtualboxdossierspartage/ASCIIDOC/eBook-Template/_resources/pdfstyles/default-theme.yml",
+		"/E/virtualboxdossierspartage/ASCIIDOC/RE2020/article_RE2020.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/cours-TEB/cours-TEB.adoc",
+		"/C/Users/olivier/Documents/docs/DAO/AutoCAD/Adesk_Fondamentaux-acad_fr_pandoc-html-to-adoc/002_vue.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/cours-TEB/chapters/001colophon.adoc",
+		"/E/DLs/EssentialAlgorithmsAndDataStructures_FirstEdition/EssentialAlgorithmsAndDataStrucutres_1stEdition.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/cours-TEB/chapters/chapter_02.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/microservices-spring-vs-microprofile/docs/microservices-etat-des-lieux.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/eBook-Template/_resources/htmlstyle/css/html-zenika.css",
+		"/C/Users/olivier/Documents/docs/DAO/AutoCAD/Adesk_Fondamentaux-acad_fr/001_Eléments de base   AutoCAD 2020   Autodesk Knowledge Network.html",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoctor-packt/README.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/RE2020/Makefile",
+		"/E/virtualboxdossierspartage/RE2020/article_RE2020.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/adoc-presentation-model/src/docs/asciidoc/reveal-my-asciidoc.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/suse_pdf-clone/uyuni-clone.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/java2days/index.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/java2days/customcss.css",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/_includes/_init-fr.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/_includes/_init.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/test-makefile/Makefile",
+		"/E/virtualboxdossierspartage/ASCIIDOC/test02_html+pdf/Makefile",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/themes/pdf-theme.yml",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/themes/uyuni-theme.yml",
+		"/E/virtualboxdossierspartage/ASCIIDOC/uyuni-docs/extensions/xref-converter.rb",
+		"/E/virtualboxdossierspartage/ASCIIDOC/uyuni-docs/modules/client-configuration/nav-client-config-guide.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/uyuni-docs/modules/client-configuration/pages/supported-features.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/uyuni-docs/modules/client-configuration/_attributes.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/suse_pdf-clone/uyuni-theme.yml",
+		"/E/virtualboxdossierspartage/ASCIIDOC/sublime-test.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/_includes/_closure-fr.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/_includes/attrs-env.adoc",
+		"/E/virtualboxdossierspartage/ASCIIDOC/asciidoc/_includes/ex-example.adoc"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"./media/",
+			"./media",
+			"page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "antora-playbook.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "modules/ROOT/nav.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "modules/ROOT/_attributes.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "modules/ROOT/pages/_attributes.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "modules/ROOT/pages/index.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "modules/ROOT/pages/comment_contribuer.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "modules/ROOT/pages/version_notes.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "modules/autocad_manuel/nav.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "modules/autocad_manuel/_attributes.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "modules/autocad_manuel/pages/index.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "modules/autocad_manuel/pages/_attributes.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "modules/autocad_manuel/pages/000_intro/_attributes.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "modules/autocad_manuel/pages/000_intro/index.adoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Asciidoctor/Syntaxes/Asciidoctor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "teb192021.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

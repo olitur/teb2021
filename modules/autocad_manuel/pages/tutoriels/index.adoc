@@ -1,0 +1,36 @@
+= Tutoriels {acad}
+include::_attributes.adoc[]
+// Settings
+Olivier TURLIER <o.turlier@gmail.com>
+v.1.01, 13 janvier 2020, édition initale
+
+
+== tabs
+
+This tabs set is rendered as:
+
+[{tabs}]
+====
+Tab 1 Title::
++
+--
+This is the content of the first tab.
+
+Another paragraph in the first tab.
+
+[source,console]
+----
+$ a code block
+----
+--
+
+Tab 2 Title::
++
+This is the content of the second tab.
+====
+
+See a tabs set in action on the xref:sync-gateway::getting-started.adoc#installation[Sync Gateway Getting Started page].
+// https://docs-staging.couchbase.com/home/index.html
+
+
+

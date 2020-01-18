@@ -1,0 +1,8 @@
+= Guides {acad}
+include::_attributes.adoc[]
+Olivier TURLIER <o.turlier@gmail.com>
+v.1.01, 19 janvier 2020, édition initale
+
+
+
+

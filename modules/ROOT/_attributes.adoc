@@ -1,0 +1,32 @@
+:attachmentsdir: {moduledir}/assets/attachments
+:examplesdir: {moduledir}/examples
+:imagesdir: {moduledir}/assets/images
+:partialsdir: {moduledir}/pages/_partials
+// Settings
+:keywords: TEB, ressources, documentation, web, asciidoc, antora
+:idprefix:
+:idseparator: -
+//:doctype: article
+:encoding: utf-8
+:source-language: asciidoc
+//:outfilesuffix: .txt
+:lang: fr
+ifndef::env-github[:icons: font]
+:filesdir: {docdir}/fichiers-support
+ifndef::imagesdir[:imagesdir: {filesdir}/images]
+:experimental:
+:numbered:
+:toc: left
+:toclevels: 2
+:toc-title: Sommaire
+:data-uri:
+:allow-uri-read:
+:sectnums:
+:stem:
+//
+:description: évolutions de la production des ressources formatives TEB vers un nouveau format texte permettant une publication et une modification ultérieure aisée
+// URL's
+:uri-pandoc: https://pandoc.org
+:uri-mcneel-docalgogh: https://www.rhino3d.com/download/rhino/6.0/essential-algorithms
+:uri-antora: https://antora.org/
+
